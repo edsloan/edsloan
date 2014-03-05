@@ -1,7 +1,7 @@
 edsloan
 =======
 
-This repo contains the ever changing draft to my portfolio site, currently in development.
+The code behind my old personal site. New version currently in progress. This will be left here for future refernce.
 
 License
 =======
